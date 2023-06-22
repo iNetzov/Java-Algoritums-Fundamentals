@@ -1,7 +1,7 @@
 package Netzov;
 
 
-public class KeyLock02 {
+public class KeyLock {
 
     public static void main(String[] args) {
         long counter = 0;

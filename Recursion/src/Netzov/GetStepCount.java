@@ -2,7 +2,7 @@ package Netzov;
 
 import java.util.Scanner;
 
-public class GetStepCount01 {
+public class GetStepCount {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
